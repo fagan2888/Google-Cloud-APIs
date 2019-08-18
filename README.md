@@ -1,2 +1,2 @@
 # Google-Cloud-APIs
-I share my codes working with GCloud APIs here.
+I share my codes that works with GCloud APIs here.
