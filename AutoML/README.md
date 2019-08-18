@@ -1,1 +1,2 @@
-These sctips work with Google AutoML API.
+* Work with Google AutoML API.
+* Run on Datalab.
